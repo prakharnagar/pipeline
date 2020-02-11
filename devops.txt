@@ -1,7 +1,0 @@
-GitHub Commit
-AWS IaaS
-Jenkins (JOb -- Build  -- Test --- Push to hub.docker.com
-hub.docker.com
-IaaS
-Production (vm name docker)
-cockpit monitor
